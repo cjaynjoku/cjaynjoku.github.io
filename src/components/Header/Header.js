@@ -27,11 +27,11 @@ const Header = () => (
           style={{
             display: "flex",
             alignItems: "center",
-            color: "red",
+            color: "blue",
             marginBottom: "20px",
           }}
         >
-          <DiCssdeck size="3rem" />
+          <DiCssdeck size="5rem" />
           <Span>Portfolio</Span>
         </a>
       </Link>
